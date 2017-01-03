@@ -1,2 +1,2 @@
 # Python
-scripts
+Collection of files created as a byproduct of learning Python
